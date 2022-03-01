@@ -1,1 +1,1 @@
-# responsive
+# responsive menu için yapılan kodlama
